@@ -1,0 +1,28 @@
+# Node
+**/node_modules
+
+# NextJS
+**/.next
+
+# NestJS
+**/dist
+
+# Environment
+**/.env
+**/.env.local
+
+# Docker volumes
+postgres_data
+minio_data
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs
